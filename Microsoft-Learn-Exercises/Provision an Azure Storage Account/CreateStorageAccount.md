@@ -3,9 +3,6 @@
 __Creation Date:__ Oct 18, 2024  
 __Created By:__ Romario Coronel  
 
-
-
-
 ***
 
 
@@ -15,7 +12,7 @@ __Created By:__ Romario Coronel
 
 
 ### 1. Type "storage account"
-![Step 1 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/417ce51c-27bc-4c50-b325-fb3371b8ff26/62c4a769-ec1f-4050-a0bd-5bf70f2ccddb.png?crop=focalpoint&fit=crop&fp-x=0.4644&fp-y=0.0238&fp-z=1.4066&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=253&mark-y=6&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz02OTQmaD02MSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
+![Step 1 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/417ce51c-27bc-4c50-b325-fb3371b8ff26/62c4a769-ec1f-4050-a0bd-5bf70f2ccddb.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=311&mark-y=4&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz00OTMmaD00NCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
 
 ### 2. Click on Storage accounts
@@ -23,7 +20,7 @@ __Created By:__ Romario Coronel
 
 
 ### 3. Click on Create
-![Step 3 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/df2086ba-d88d-44a2-93b8-9c344272ba20/688237d3-3546-4295-87b0-984bb6f19537.png?crop=focalpoint&fit=crop&fp-x=0.0622&fp-y=0.1769&fp-z=2.5607&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=52&mark-y=419&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yNzgmaD0xNDQmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
+![Step 3 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/df2086ba-d88d-44a2-93b8-9c344272ba20/688237d3-3546-4295-87b0-984bb6f19537.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=20&mark-y=164&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xMDkmaD01NiZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
 
 ### 4. Click on Resource group
@@ -55,29 +52,27 @@ __Created By:__ Romario Coronel
 
 
 ### 11. Click on Next
-![Step 11 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/4c197c7f-ecfd-45f5-b0f3-f4cfb960da54/d17fed28-d59f-4ed0-9c55-f42679e687e6.png?crop=focalpoint&fit=crop&fp-x=0.1675&fp-y=0.9706&fp-z=2.5387&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=367&mark-y=952&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yODYmaD0xMDMmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
+![Step 11 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/4c197c7f-ecfd-45f5-b0f3-f4cfb960da54/d17fed28-d59f-4ed0-9c55-f42679e687e6.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=145&mark-y=1033&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xMTMmaD00MSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
 
 ### 12. Uncheck Data protection
-![Step 12 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/a0c28526-0fac-4f6b-9e70-0e98833fdeea/d4729498-83ea-4a1c-8fd5-eca789837069.png?crop=focalpoint&fit=crop&fp-x=0.0411&fp-y=0.4374&fp-z=3.0805&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=111&mark-y=501&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz04MiZoPTgyJmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
+![Step 12 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/a0c28526-0fac-4f6b-9e70-0e98833fdeea/d4729498-83ea-4a1c-8fd5-eca789837069.png?crop=focalpoint&fit=crop&fp-x=0.4646&fp-y=0.4939&fp-z=1.0782&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=38&mark-y=462&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yOSZoPTI5JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
 
 
 ### 13. Uncheck Data protection
-![Step 13 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/cee7b66f-b58c-43db-9d71-b2f61876015f/0946519a-0137-43ca-9205-06d38fa1f33c.png?crop=focalpoint&fit=crop&fp-x=0.0411&fp-y=0.5305&fp-z=3.0805&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=111&mark-y=501&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz04MiZoPTgyJmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
+![Step 13 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/cee7b66f-b58c-43db-9d71-b2f61876015f/0946519a-0137-43ca-9205-06d38fa1f33c.png?crop=focalpoint&fit=crop&fp-x=0.4646&fp-y=0.5045&fp-z=1.0782&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=38&mark-y=559&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yOSZoPTI5JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
 
 
 ### 14. Uncheck Data protection
-![Step 14 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/0cee8db0-730b-46ab-8faa-ca5fdd0ca785/140f3420-a2dd-437e-949d-87943fece09a.png?crop=focalpoint&fit=crop&fp-x=0.0411&fp-y=0.6049&fp-z=3.0805&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=111&mark-y=501&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz04MiZoPTgyJmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
+![Step 14 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/0cee8db0-730b-46ab-8faa-ca5fdd0ca785/140f3420-a2dd-437e-949d-87943fece09a.png?crop=focalpoint&fit=crop&fp-x=0.4646&fp-y=0.5120&fp-z=1.0782&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=38&mark-y=637&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yOSZoPTI5JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D)
 
 
 ### 15. Click on Next
-![Step 15 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/1e29fa8a-7539-4218-ac98-afcb96263ea0/2f6b1573-757c-4ee4-93a6-87f384bd6999.png?crop=focalpoint&fit=crop&fp-x=0.1675&fp-y=0.9706&fp-z=2.5387&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=367&mark-y=952&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yODYmaD0xMDMmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
+![Step 15 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/1e29fa8a-7539-4218-ac98-afcb96263ea0/2f6b1573-757c-4ee4-93a6-87f384bd6999.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=145&mark-y=1033&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xMTMmaD00MSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
 
 ### 16. Click on Create
-![Step 16 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/7dc873f1-779b-411f-9382-b1ae211c2a3a/0f06856f-d95e-4a81-92b5-4fa73fe151f2.png?crop=focalpoint&fit=crop&fp-x=0.2580&fp-y=0.9706&fp-z=2.5387&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=457&mark-y=952&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yODYmaD0xMDMmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
+![Step 16 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/7dc873f1-779b-411f-9382-b1ae211c2a3a/0f06856f-d95e-4a81-92b5-4fa73fe151f2.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=253&mark-y=1033&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xMTMmaD00MSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
 <br/>
 
-***
-Created with [Tango.us](https://tango.us?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
