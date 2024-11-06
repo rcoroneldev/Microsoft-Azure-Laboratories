@@ -5,9 +5,6 @@ __Created By:__ Romario Coronel
 
 ***
 
-
-
-
 ## # [Microsoft Azure portal (PWA)](https://portal.azure.com/#home)
 
 
@@ -74,7 +71,3 @@ __Created By:__ Romario Coronel
 ### 16. Click on Create
 ![Step 16 screenshot](https://images.tango.us/workflows/bd0119f9-0180-4f67-af87-d59a7602448d/steps/7dc873f1-779b-411f-9382-b1ae211c2a3a/0f06856f-d95e-4a81-92b5-4fa73fe151f2.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=253&mark-y=1033&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0xMTMmaD00MSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
-<br/>
-
-***
-Created with [Tango.us](https://tango.us?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
