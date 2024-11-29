@@ -1,9 +1,0 @@
-CREATE DATABASE Sales COLLATE Latin1_General_100_BIN2_UTF8;
-
-GO
-;
-
-Use Sales;
-
-GO
-;
