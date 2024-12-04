@@ -1,0 +1,12 @@
+{
+    "id": "SO43701",
+    "orderdate": "2019-07-01",
+    "customerid": 123,
+    "customerdetails": {
+        "customername": "Christy Zhu",
+        "customeremail": "christy12@adventure-works.com"
+    },
+    "product": "Mountain-100 Silver, 44",
+    "quantity": 1,
+    "price": 3399.99
+}

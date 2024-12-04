@@ -1,0 +1,12 @@
+{
+  "id": "SO43707",
+  "orderdate": "2019-07-02",
+  "customerid": 125,
+  "customerdetails": {
+    "customername": "Emma Brown",
+    "customeremail": "emma3@adventure-works.com"
+  },
+  "product": "Road-150 Red, 48",
+  "quantity": 1,
+  "price": 3578.27
+}

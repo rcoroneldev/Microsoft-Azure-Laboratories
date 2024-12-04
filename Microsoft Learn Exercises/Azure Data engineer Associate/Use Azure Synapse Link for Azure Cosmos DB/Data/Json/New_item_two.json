@@ -1,0 +1,12 @@
+{
+    "id": "SO43704",
+    "orderdate": "2019-07-01",
+    "customerid": 124,
+    "customerdetails": {
+        "customername": "Julio Ruiz",
+        "customeremail": "julio1@adventure-works.com"
+    },
+    "product": "Mountain-100 Black, 48",
+    "quantity": 1,
+    "price": 3374.99
+}
