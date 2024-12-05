@@ -1,6 +1,6 @@
-# Azure Data Engineering Exercises
+# Use Microsoft Purview with Azure Synapse Analytics
 
 ### 1. Click on Microsoft Learn Exercise
 
-[Microsoft Learn Exercise](https://microsoftlearning.github.io/dp-203-azure-data-engineer/)
+[Microsoft Learn Exercise](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/22-Synapse-purview.html)
 
