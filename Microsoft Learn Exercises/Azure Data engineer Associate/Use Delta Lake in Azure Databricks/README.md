@@ -5,5 +5,3 @@
 [Microsoft Learn Exercise]
 (https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/25-Delta-lake-in-Azure-Databricks.html)
 
-
-
